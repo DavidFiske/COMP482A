@@ -48,14 +48,14 @@ Password: password <br />
 
 
 ## Screenshots
-![Log In Screen](/relative/path/to/img.jpg?raw=true "Log In Screen") <br />
-![Home Screen](/relative/path/to/img.jpg?raw=true "Home Screen") <br />
-![Calendar Screen](/relative/path/to/img.jpg?raw=true "Calendar Screen") <br />
-![Clients Screen](/relative/path/to/img.jpg?raw=true "Clients Screen") <br />
-![Clients > Edit](/relative/path/to/img.jpg?raw=true "Clients > Edit") <br />
-![Clients > New](/relative/path/to/img.jpg?raw=true "Clients > New") <br />
-![Staff Screen](/relative/path/to/img.jpg?raw=true "Staff Screen") <br />
-![Staff > Edit Screen](/relative/path/to/img.jpg?raw=true "Staff > Edit Screen") <br />
-![Staff > New Screen](/relative/path/to/img.jpg?raw=true "Staff > New Screen") <br />
-![Settings Screen](/relative/path/to/img.jpg?raw=true "Settings Screen") <br />
+![Log In Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/0_login.png?raw=true "Log In Screen") <br />
+![Home Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/1_home.png?raw=true "Home Screen") <br />
+![Calendar Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/2_calendar.png?raw=true "Calendar Screen") <br />
+![Clients Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/3_clients.png?raw=true "Clients Screen") <br />
+![Clients > Edit](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/4_clients_edit.png?raw=true "Clients > Edit") <br />
+![Clients > New](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/5_clients_new.png?raw=true "Clients > New") <br />
+![Staff Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/6_staff.png?raw=true "Staff Screen") <br />
+![Staff > Edit Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/7_staff_edit.png?raw=true "Staff > Edit Screen") <br />
+![Staff > New Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/8_staff_new.png?raw=true "Staff > New Screen") <br />
+![Settings Screen](https://github.com/DavidFiske/COMP482A/blob/main/screenshots/9_settings.png?raw=true "Settings Screen") <br />
 
